@@ -35,7 +35,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>org.example.App</mainClass>
+              <mainClass>com.example.helloworld.App</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
